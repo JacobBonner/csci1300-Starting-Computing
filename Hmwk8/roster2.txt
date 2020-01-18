@@ -1,0 +1,7 @@
+Robin Hood,10.0
+Little John,9.5
+Maid Marian,3.2
+Friar Tuck,4.6
+Will Scarlet,7.4
+Much,8.0
+Alan-A-Dale,8.2
